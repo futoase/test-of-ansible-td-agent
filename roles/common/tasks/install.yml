@@ -1,0 +1,5 @@
+---
+- name: install the prerequired libraries
+  yum: name=libselinux-python
+       state=latest
+  when: ansible_distribution == 'CentOS'

@@ -1,0 +1,8 @@
+[vagrant-centos]
+192.168.33.222
+
+[vagrant-ubuntu]
+192.168.33.223
+
+[vagrant-debian]
+192.168.33.224
